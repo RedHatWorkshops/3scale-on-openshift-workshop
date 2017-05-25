@@ -139,5 +139,6 @@ oc new-app --file /opt/amp/templates/amp.yml --param WILDCARD_DOMAIN=amp.13.58.1
 
 ## Notes
 
-It can take a few minutes after all pods are started before it is ready. Make sure all pods are up by going to the openshift console before you login using the below link)
+It can take a few minutes after all pods are started before it is ready. Make sure all pods are up by going to the openshift console before you login using the below link
+
 When installation is complete, Login on https://3scale-admin.amp.13.58.121.70.xip.io 	as admin/3scaleUser
